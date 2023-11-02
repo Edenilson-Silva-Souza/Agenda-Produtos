@@ -1,0 +1,10 @@
+# Arquivos de compilação
+*.class
+
+# Arquivos de configuração
+config.ini
+
+# Arquivos de log
+*.log
+
+*.xml
